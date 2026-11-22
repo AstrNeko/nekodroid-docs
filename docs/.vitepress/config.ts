@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  base: '/docs/',
+  base: '/nekodroid-docs/',
   title: 'AstrNeko Docs',
   description: '文档站',
   themeConfig: {
